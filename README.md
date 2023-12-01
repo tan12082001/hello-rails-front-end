@@ -42,7 +42,7 @@
     <li><a href="https://react.dev/">React</a></li>
     <li><a href="https://www.w3schools.com/html/">HTML</a></li>
     <li><a href="https://www.w3schools.com/css/default.asp">CSS</a></li>
-    <li><a href="https://www.w3schools.com/javascript/default.asp">JavaScript</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a></li>
   </ul>
 </details>
 
